@@ -19,6 +19,8 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css)
+![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
 
 **DevOps**
 
