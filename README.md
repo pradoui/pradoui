@@ -16,8 +16,7 @@ I'm always looking to learn more, and I'm even working on becoming fluent in Eng
 My hobbies include video games and board games, watching TV shows, reading, and getting plenty of sleep 😅... and coffee, of course.
 
 ## Tech Stack
-
-<img alt="Static Badge" src="https://img.shields.io/badge/flutter?style=for-the-badge&logo=flutter&logoColor=%2375A6FA&color=%23071017">
+![flutter](https://img.shields.io/badge/flutter?style=for-the-badge&logo=flutter&logoColor=%2375A6FA&color=%23071017)
 ![Static Badge](https://img.shields.io/badge/Dart?style=for-the-badge&logo=dart&logoColor=%2375A6FA&color=%23071017)
 ![Static Badge](https://img.shields.io/badge/Firebase?style=for-the-badge&logo=firebase&logoColor=%2375A6FA&color=%23071017)
 ![Static Badge](https://img.shields.io/badge/Java?style=for-the-badge&logo=java&logoColor=%2375A6FA&color=%23071017)
