@@ -1,26 +1,32 @@
 ![](https://komarev.com/ghpvc/?username=pradoui&color=006bed)
 
-## Olá! Prazer, sou o Thiago Prado 🔷
+## Hey there! 🔷
 
-- 💻 Trabalho atualmente como Web Designer e estou sempre em busca de novas oportunidades de agregar e aprender!
-- 🚀 Estou cursando Desenvolvimento de Sistemas, e também estudo UX Design e ferramentas front-end como React JS.
-- 📘 Faço projetos freelancers, mas também estou em busca de crescimento dentro de uma empresa com ambiente colaborativo que agregue na minha carreira.
+My name is Thiago Prado, a truly persistent and insistent front-end and mobile developer 😁. I say this because I've fought hard to achieve my dream of working in software development, and I continue to fight with every new bug or commit!
+I'm currently a junior front-end and mobile developer at Entrega+.
 
-## Minhas Skills
+I've been passionate about technology since I was 9 years old, when I first encountered a Microsoft desktop with Windows XP. I'm a Systems Development Technician and am currently pursuing my degree as a Systems Analyst.
 
-**Linguagens**
+## Expertise
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css)
-![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
-![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter)
+I've been pursuing a specialization in Front-end and Mobile because it's what makes me happy, makes me want to be better, learn more, and have a successful career. I started out as a Java developer in college, where I learned all the logic, practices, and how to create organized and structured software. However, my first professional opportunity came as a web developer, creating all kinds of websites. A year ago, I discovered how to combine all my knowledge to develop mobile applications, and that's what has driven me so far.
+
+I'm always looking to learn more, and I'm even working on becoming fluent in English, hopefully.
+
+My hobbies include video games and board games, watching TV shows, reading, and getting plenty of sleep 😅... and coffee, of course.
+
+## Tech Stack
+
+![Static Badge](https://img.shields.io/badge/Flutter?style=for-the-badge&logo=flutter&logoColor=%2375A6FA&color=%23071017)
+![Static Badge](https://img.shields.io/badge/Dart?style=for-the-badge&logo=dart&logoColor=%2375A6FA&color=%23071017)
+![Static Badge](https://img.shields.io/badge/Firebase?style=for-the-badge&logo=firebase&logoColor=%2375A6FA&color=%23071017)
+![Static Badge](https://img.shields.io/badge/Java?style=for-the-badge&logo=java&logoColor=%2375A6FA&color=%23071017)
+![Static Badge](https://img.shields.io/badge/HTML5?style=for-the-badge&logo=html&logoColor=%2375A6FA&color=%23071017)
+![Static Badge](https://img.shields.io/badge/CSS?style=for-the-badge&logo=css&logoColor=%2375A6FA&color=%23071017)
+![Static Badge](https://img.shields.io/badge/Bootstrap?style=for-the-badge&logo=bootstrap&logoColor=%2375A6FA&color=%23071017)
+![Static Badge](https://img.shields.io/badge/Tailwind%20CSS?style=for-the-badge&logo=tailwind&logoColor=%2375A6FA&color=%23071017)
+![Static Badge](https://img.shields.io/badge/Typescript?style=for-the-badge&logo=typescript&logoColor=%2375A6FA&color=%23071017)
+![Static Badge](https://img.shields.io/badge/Figma?style=for-the-badge&logo=figma&logoColor=%2375A6FA&color=%23071017)
 
 **DevOps**
 
